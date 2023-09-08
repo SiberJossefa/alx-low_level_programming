@@ -6,7 +6,7 @@
  * AUTHOR: Jossefa Alberto Muchanga
  */
 
-void main(){
+int main(void){
 
    char let;
    for(let='a';let<='z';let++)

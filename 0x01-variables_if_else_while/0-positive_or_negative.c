@@ -6,7 +6,7 @@
  * AUTHOR: Jossefa Alberto Muchanga
  */
 
-int main (){
+int main (void){
 
 int n;
 srand(time(0));
