@@ -2,10 +2,12 @@
 #include<stdlib.h>
 
 
-/*print_alphabet.c
+/*
+ * print_alphabet.c
  * AUTHOR: Jossefa Alberto Muchanga
  */
-int main(void){
+int main(void)
+{
 
 	char let;
 	for(let='a';let<='z';let++)
