@@ -1,10 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
-
-
-/*
- * print_alphabet.c
- * AUTHOR: Jossefa Alberto Muchanga
+/**
+ * main - entry point
+ *
+ * Return: 0 always
  */
 int main(void)
 {
