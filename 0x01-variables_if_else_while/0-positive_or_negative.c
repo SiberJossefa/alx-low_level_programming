@@ -3,8 +3,9 @@
 #include<time.h>
 
 /*
- * positive_or_negative.c
+ *The function main it prints positive_or_negative.c
  * AUTHOR: Jossefa Alberto Muchanga
+ * return: 0 always
  */
 
 int main(void)
