@@ -2,8 +2,9 @@
 #include<stdlib.h>
 #include<time.h>
 
-/*
+/**
  *The function main it prints positive_or_negative.c
+ *
  * AUTHOR: Jossefa Alberto Muchanga
  * return: 0 always
  */
