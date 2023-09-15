@@ -2,12 +2,10 @@
 #include<time.h>
 /* more headers goes there */
 #include<stdio.h>
-
 /**
- *The function main it prints positive_or_negative.c
+ * main - entry point
  *
- * AUTHOR: Jossefa Alberto Muchanga
- * return: 0 always
+ * Return: 0 always
  */
 
 int main(void)
