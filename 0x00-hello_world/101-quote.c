@@ -1,8 +1,8 @@
 #include<unistd.h>
-
 /**
- * main - Entry point
- * return:1
+ * main - entry point
+ *
+ * Return: 1 always
  */
 int main(void)
 {
