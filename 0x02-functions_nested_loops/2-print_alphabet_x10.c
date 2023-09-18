@@ -1,10 +1,9 @@
 #include"main.h"
-
 /**
-*print_alphabet_x10
-*Return: Void
-*/
-
+ * main - entry point
+ *
+ * Return: 0 always
+ */
 void print_alphabet_x10(void)
 {
 	char ch;
