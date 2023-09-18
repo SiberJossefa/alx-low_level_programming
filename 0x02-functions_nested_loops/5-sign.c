@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*print sign: prints the sign of any number
+*print_sign: prints the sign of any number
 *@n: intenger number
 *return: 1 if n is great than 0
 */
@@ -18,6 +18,5 @@ int print_sign(int n)
 	 }
 	 
 	 _putchar('0');
-	 return (0);
-	 
+	 return (0);	 
 }
