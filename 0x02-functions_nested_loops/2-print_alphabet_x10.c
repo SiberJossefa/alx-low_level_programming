@@ -1,8 +1,8 @@
 #include"main.h"
 /**
- * main - entry point
+ *print_alphabet_x10 - print in lowercase
  *
- * Return: 0 always
+ * Return: always nothing(void)
  */
 void print_alphabet_x10(void)
 {
