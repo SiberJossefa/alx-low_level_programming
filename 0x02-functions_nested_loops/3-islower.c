@@ -1,10 +1,10 @@
 #include"main.h"
 
 /**
- * main - entry point
+ * _islower - cheks whether a c is lowercase
  *
-*Return: 1 charater or 0 anything
-*/
+ *Return: 1 charater or 0 anything
+ */
 
 int _islower(int c)
 {
