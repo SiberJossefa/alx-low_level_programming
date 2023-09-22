@@ -1,5 +1,5 @@
 #include "main.h"
-i
+
 /**
  * _isupper - checks wether a c is uppercase or not
  * @c: intenger
