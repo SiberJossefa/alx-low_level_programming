@@ -2,7 +2,6 @@
 #include <stdio.h>
 /**
  * print_numbers - from 0 to 9
- * @i: char
  */
 void print_numbers(void)
 {
@@ -13,5 +12,4 @@ void print_numbers(void)
 		putchar(i);
 	}
 	putchar('\n');
-	
 }
