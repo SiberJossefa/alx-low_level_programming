@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
- * main - print the largest prime factor number 612852475143
+ * main - print the largest prime factor of the number 612852475143
  * return - 0
  */
 int main(void)
 {
-	long int a, b, c;
+	unsigned long  a, b, c;
 
 	b = 612852475143;
 	for (a = 1; a < b; a++)
@@ -14,7 +14,7 @@ int main(void)
 		{
 			if (b == a)
 			{
-				printf("%ld\n", a);
+				printf("%lu\n", a);
 				break;
 			}
 			c = b / a;
