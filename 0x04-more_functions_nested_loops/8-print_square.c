@@ -2,6 +2,7 @@
 #include <stdio.h>
 /**
  * void print_square - prints a square
+ * @size: intenger
  */
 void print_square(int size)
 {
