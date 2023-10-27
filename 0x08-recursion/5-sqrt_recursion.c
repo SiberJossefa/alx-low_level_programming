@@ -32,6 +32,6 @@ int Natural_sqrt_recursion(int i, int n)
 	}
 	else
 	{
-		return (Natural_sqrt_recursion(n, i + 1));
+		return (Natural_sqrt_recursion(sqrt(n, i + 1)));
 	}
 }
