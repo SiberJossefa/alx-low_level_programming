@@ -5,7 +5,7 @@
  * @x: intenger number
  * @y: the pow
  *
- * return: 1 on sucess
+ * Return: 1 on sucess
  * on error return -1
  */
 int _pow_recursion(int x, int y)
