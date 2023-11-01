@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
 
 	a = atoi(argv[1]);
 	b = atoi(argv[2]);
-	printf("Multiple of numbers:%i\n", a * b);
+	printf("%i\n", a * b);
 
 	return (0);
 }
