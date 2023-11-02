@@ -2,11 +2,11 @@
 #include <stdlib.h>
 #include <ctype.h>
 /*
- * main - adds positive numbers
+ * main - prints the sum of all positive numbers
  * @argc: argument
  * @argv: argument
  *
- * Return: 0 sucess, 1 
+ * Return: 0 sucess, 1 otherwise
  */
 int main(int argc, char *argv[])
 {
