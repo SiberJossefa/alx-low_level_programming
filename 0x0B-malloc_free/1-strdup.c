@@ -6,7 +6,7 @@
  * to a newly allocated space in memory
  * @str: string to be copy
  *
- * Return - on sucess function return a string duplicated
+ * Return - pointer to the newly allocated memory
  */
 char *_strdup(char *str)
 {
