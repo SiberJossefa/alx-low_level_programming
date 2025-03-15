@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main: funtion that assign random number
+ * main - entry point
  *
- * return: always return 0
+ * return: 0  always
  */
 int main(void)
 	{
