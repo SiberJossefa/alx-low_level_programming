@@ -7,12 +7,12 @@
 
 int main(void)
 {
-	char let;
+        char let;
 
-	for (let = 'z'; let >= 'a'; let--)
-		putchar(let);
+        for (let = 'z'; let >= 'a'; let--)
+                putchar(let);
 
-	putchar('\n');
+        putchar('\n');
 
-	return (0);
+        return (0);
 }
