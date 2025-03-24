@@ -1,7 +1,7 @@
 #include"main.h"
 
 /**
- *_Isalpha - Chek for Alphabet Charaters
+ *_Isalpha - Cheks c is Alphabet or not
  *@c: Charater
  *
  *Return: 1 for Aplhabetic or 0 for anything
