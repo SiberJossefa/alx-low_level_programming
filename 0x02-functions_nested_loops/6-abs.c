@@ -1,13 +1,12 @@
 #include"main.h"
-
 /**
-*_abs
-*Return Absolute Value
-*/
-
+ *_abs - print absolute value
+ *@a: intenger
+ *
+ *Return: Absolute Value
+ */
 int _abs(int a)
 {
-
 	if (a < 0)
 	{
 	int abs_val;
