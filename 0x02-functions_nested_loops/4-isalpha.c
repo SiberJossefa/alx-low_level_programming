@@ -1,7 +1,7 @@
 #include"main.h"
 
 /**
-*_Isalpha - Cheks
+*_Isalpha - Cheks Alphabet Charaters
 *Return: 1 for Aplhabetic or 0 for anything
 */
 
