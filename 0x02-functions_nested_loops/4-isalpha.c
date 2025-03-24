@@ -1,9 +1,11 @@
 #include"main.h"
 
 /**
-*_Isalpha - Cheks Alphabet Charaters
-*Return: 1 for Aplhabetic or 0 for anything
-*/
+ *_Isalpha - Chek for Alphabet Charaters
+ *@c: Charater
+ *
+ *Return: 1 for Aplhabetic or 0 for anything
+ */
 
 int _isalpha(int c)
 {
