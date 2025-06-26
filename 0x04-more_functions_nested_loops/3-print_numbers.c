@@ -2,16 +2,15 @@
 #include <stdio.h>
 /**
  * print_numbers - Function that prints numbers from 0 to 9
- * @i: character
- * Return: 0
+ * @i: intenger
  */
 void print_numbers(void)
 {
-	char i;
+	int i;
 
-	for (i = 0; i <= 9; i++)
+	for (i = 48; i <= 57; i++)
 	{
-		_putchar(i + '0');
+		_putchar(i);
 	}
 	_putchar('\n');
 }
